@@ -3,9 +3,8 @@
 <h3>Sobre mim</h3>
 
 - 📚 Explorando novos conhecimentos
-- 🎓 Estudando **SISTEMAS DE INFORMAÇÃO** na <a href="https://www.unisanta.br">UNISANTA</a>
-- 💼 Fazendo **PROCESSO DE FORMAÇÃO** na <a href="https://br.linkedin.com/company/modalgr">MODALGR</a>
-- 🌱 &nbsp; Aprendendo mais sobre **NodeJS**
+- 🎓 Formada em **SISTEMAS DE INFORMAÇÃO** na <a href="https://www.unisanta.br">UNISANTA</a>
+- 💼 **Analista de Desenvolvimento** na <a href="https://br.linkedin.com/company/modalgr">Mosten</a>
 _________________________________________________________________________________________________
 
 <h3>Status</h3>
