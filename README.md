@@ -4,7 +4,6 @@
 
 - 📚 Semore em busca novos conhecimentos
 - 🎓 Formada em **SISTEMAS DE INFORMAÇÃO** na <a href="https://www.unisanta.br">UNISANTA</a>
-- 💼 **Analista de Desenvolvimento** na <a href="https://br.linkedin.com/company/modalgr">Mosten</a>
 - 🔗 <a href="https://www.linkedin.com/in/ellenrochafarias/">LinkedIn</a>
 _________________________________________________________________________________________________
 
